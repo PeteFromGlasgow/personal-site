@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "My Blog",
+    "description": "My second, super-cool blog."
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":title"
+    },
+    "metalsmith-layouts": {
+      "engine": "swig"
+    },
+    "metalsmith-assets": {
+      "source": "./public",
+      "destination": "./public"
+    },
+    "metalsmith-sass": {
+      "file": "./public/style.scss",
+      "outputStyle": "expanded"
+    }
+  }
+}

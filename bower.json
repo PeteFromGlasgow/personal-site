@@ -1,0 +1,27 @@
+{
+  "name": "peterkinnaird.eu-metalsmith",
+  "description": "My personal website",
+  "main": "",
+  "authors": [
+    "Peter Kinnaird <peter@peterkinnaird.eu>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "site",
+    "personal"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.1.1"
+  }
+}
