@@ -1,9 +1,40 @@
 @import "./bower_components/foundation-sites/scss/foundation";
 
+$zen-white: #D8CAA8;
+$zen-green: #5C832F;
+$zen-green-dark: #284907;
+$zen-brown: #382513;
+$zen-blue-dark: #363942;
 
-$topbar-background: none;
-@include foundation-everything($flex: true)
+$topbar-background: $zen-blue-dark;
+$topbar-link-color: $zen-white;
 
-body {
-
+.zen-white {
+	color: $zen-white !important;
 }
+
+.introbox {
+	height: calc(100vh - 40px);
+	background: $zen-blue-dark;
+	color: $zen-white;
+}
+
+.no-vertical-margins {
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.section {
+	padding-top: 1em;
+}
+
+.introbox-inner {
+	margin-top: calc((50vh - 40px) - 60px);
+	margin-left: calc(50vw - 200px);
+	width: 400px;
+	height: 200px;
+	text-align: center;
+}
+
+
+@include foundation-everything($flex: true)
