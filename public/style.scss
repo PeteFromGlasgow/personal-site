@@ -1,10 +1,22 @@
 @import "./bower_components/foundation-sites/scss/foundation";
 
-$zen-white: #D8CAA8;
-$zen-green: #5C832F;
-$zen-green-dark: #284907;
-$zen-brown: #382513;
-$zen-blue-dark: #363942;
+$zen-white: #ECF0F1;
+//$zen-green: #5C832F;
+//$zen-green-dark: #284907;
+//$zen-brown: #382513;
+$zen-blue-dark: #2C3E50;
+
+$zen-blue: #2980B9;
+$zen-blue-light: #3498DB;
+$zen-red: #E74C3C;
+
+
+.button-bordered {
+	border: $zen-white 2px solid !important;
+	color: $zen-white !important;
+	background: none !important;
+
+}
 
 $topbar-background: $zen-blue-dark;
 $topbar-link-color: $zen-white;
@@ -19,14 +31,41 @@ $topbar-link-color: $zen-white;
 	color: $zen-white;
 }
 
+
+.footer {
+	height: calc(100px);
+	background: $zen-blue-dark;
+	color: $zen-white;
+}
 .no-vertical-margins {
 	margin-top: 0em;
 	margin-bottom: 0em;
 }
 
+.min-vport-height {
+	min-height: calc(100vh - 40px);
+}
+
+.zen-white-background {
+	background: $zen-white;
+}
+
+.section-header {
+    width: 100vw;
+    background: $zen-red;
+    color: $zen-white;
+    margin-bottom: 1em;
+}
+
+h1.section-header-title {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	color: $zen-red;
+}
 .section {
 	padding-top: 1em;
 }
+
 
 .introbox-inner {
 	margin-top: calc((50vh - 40px) - 60px);
