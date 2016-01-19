@@ -147,6 +147,9 @@ layout: index.html.swig
 			</label>
 			<button type='submit' class='button'>Send</button>
 		</div>
+		<div class="columns small-12 medium-6">
+			<h3>Social</h3>
+		</div>
 	</div>
 </div>
 <div class="footer">
