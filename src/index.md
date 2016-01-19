@@ -77,7 +77,7 @@ layout: index.html.swig
 				<i>2015 - Present</i>
 			</div>
 			<div class="columns small-12 medium-9">
-				<p>Due to his increased leadership in projects and roles within them Peter was promoted to Senior Software Architect and is now in charge of designing, architecting and structuring some of Streams more large and ambitious projects. Along with this he still codes from day to day along with the rest of the team working on everything from frontend to OS level tools.</p>
+				<p>Due to his increased leadership in projects and roles within them Peter was promoted to Senior Software Architect and is now in charge of designing, architecting and structuring some of Streams more large and ambitious projects. Along with this he still codes from day to day along with the rest of the team working on everything from frontend to bare metal tools.</p>
 				
 			</div>
 		</div>
@@ -132,14 +132,20 @@ layout: index.html.swig
 		</div>
 	</div>
 	<div class='row min-vport-height'>
-		<div class="columns small-12 medium-8">
-		    <script>
-		    	//Function to hide email address from dumb spiders
-		    	function mg(){
-		    		window.href='mailto:'+([112, 101, 116, 101, 114, 64, 112, 101, 116, 101, 114, 107, 105, 110, 110, 97, 105, 114, 100, 46, 101, 117].reduce(function(lastval, item){return lastval+String.fromCharCode(item)}, ''));
-		    	}
-		    </script>
-			<a onclick="mg()">email</a>
+		<div class="columns small-12 medium-6">
+			<label>
+				Your Email
+				<input type="email" placeholder="jimmy@example.com"></input>
+			</label>
+			<label>
+				Subject
+				<input type="text" placeholder="Lets work together!"></input>
+			</label>
+			<label>
+				Message
+				<textarea id='email-message'></textarea>
+			</label>
+			<button type='submit' class='button'>Send</button>
 		</div>
 	</div>
 </div>
