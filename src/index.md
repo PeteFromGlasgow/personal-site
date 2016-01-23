@@ -19,6 +19,7 @@ layout: index.html.swig
 	&nbsp;
     <div class="introbox-inner">
     	<p class='no-vertical-margins'>You have reached the home of</p>
+    	<img src="public/images/peter_drawing_no_back.png" class='face-bordered'></img>
         <h1>Peter Kinnaird</h1>
         <p>Bearded Code Artisan</p>
         <a href="public/cv_peter_kinnaird.pdf" class="button button-bordered">Download CV</a>
@@ -114,11 +115,27 @@ layout: index.html.swig
 	<div class='min-vport-height'>
 		<div class='row'>
 			<div class="columns small-12 medium-6">
-				<h4>Programming</h4>
+				<h4>Web Development</h4>
+				<ul>
+					<li>Javascript</li>
+					<li>PHP</li>
+					<li>HTML5</li>
+					<li>CSS3</li>
+				</ul>
 			</div>
 			<div class="columns small-12 medium-6">
 				<h4>Software</h4>
-				
+				<ul>
+					<li>Photoshop</li>
+					<li>After Effects</li>
+				</ul>
+			</div>
+		</div>
+		<div class='row'>
+			<div class="columns small-12 medium-6">
+				<h4>Languages</h4>
+				<p>I speak English as my native tounge</p>
+				<p>I also speak a little Japanese (日本語は少し話します！)</p>
 			</div>
 		</div>
 	</div>

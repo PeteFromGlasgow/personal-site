@@ -18,8 +18,16 @@ $zen-red: #E74C3C;
 
 }
 
+
 $topbar-background: $zen-blue-dark;
 $topbar-link-color: $zen-white;
+
+.face-bordered {
+    width: 128px;
+    background: white;
+    border-radius: 64px;
+    margin-top:1em;
+}
 
 .zen-white {
 	color: $zen-white !important;
@@ -71,10 +79,10 @@ h1.section-header-title {
 
 
 .introbox-inner {
-	margin-top: calc((50vh - 40px) - 60px);
+	margin-top: calc((50vh - 40px) - 175px);
 	margin-left: calc(50vw - 200px);
 	width: 400px;
-	height: 200px;
+	height: 350px;
 	text-align: center;
 }
 
