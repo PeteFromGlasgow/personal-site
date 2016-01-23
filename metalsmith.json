@@ -15,8 +15,15 @@
       "source": "./public",
       "destination": "./public"
     },
+    "metalsmith-concat": {
+      "files": [
+        "public/components/jquery/dist/jquery.min.js",
+        "public/components/foundation/dist/foundation.min.js",
+        "public/components/what-input/what-input.min.js"
+      ],
+      "output": "public/vendor.js"
+    },
     "metalsmith-sass": {
-      "file": "./public/style.scss",
       "outputStyle": "expanded"
     }
   }

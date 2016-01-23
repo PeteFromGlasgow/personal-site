@@ -10,7 +10,5 @@
 
 	{% endblock content %}
 </body>
-<script type="text/javascript" src="public/components/foundation/dist/foundation.min.js"></script>
-<script type="text/javascript" src="public/components/jquery/dist/jquery.min.js"></script>
-<script type="text/javascript" src="public/components/what-input/what-input.min.js"></script>
+<script type="text/javascript" src="public/vendor.js"></script>
 </html>
