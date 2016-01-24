@@ -21,7 +21,7 @@ layout: index.html.swig
     	<p class='no-vertical-margins'>You have reached the home of</p>
     	<img src="public/images/peter_drawing_no_back.png" class='face-bordered'></img>
         <h1>Peter Kinnaird</h1>
-        <p>Bearded Code Artisan</p>
+        <p id='main-subtitle'>Bearded Code Artisan</p>
         <a href="public/cv_peter_kinnaird.pdf" class="button button-bordered">Download CV</a>
     </div>
 </div>
@@ -112,7 +112,7 @@ layout: index.html.swig
 			<h1 class='section-header-title'>Skills</h1>
 		</div>
 	</div>
-	<div class='min-vport-height'>
+	<div>
 		<div class='row'>
 			<div class="columns small-12 medium-6">
 				<h4>Web Development</h4>
@@ -148,7 +148,7 @@ layout: index.html.swig
 			<h1 class='section-header-title'>Contact</h1>
 		</div>
 	</div>
-	<div class='row min-vport-height'>
+	<div class='row'>
 		<div class="columns small-12 medium-6">
 			<label>
 				Your Email

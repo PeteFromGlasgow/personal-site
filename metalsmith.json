@@ -15,14 +15,19 @@
       "source": "./public",
       "destination": "./public"
     },
+    "./bower.js": {
+      "includeCss": false,
+      "includeScss": false
+    },
     "metalsmith-concat": {
       "files": [
-        "public/components/jquery/dist/jquery.min.js",
-        "public/components/foundation/dist/foundation.min.js",
-        "public/components/what-input/what-input.min.js"
+        "public/jquery.js",
+        "public/foundation.js",
+        "public/what-input.js"
       ],
       "output": "public/vendor.js"
     },
+    "metalsmith-uglify":{},
     "metalsmith-sass": {
       "outputStyle": "expanded"
     }

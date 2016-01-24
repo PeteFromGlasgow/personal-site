@@ -11,4 +11,5 @@
 	{% endblock content %}
 </body>
 <script type="text/javascript" src="public/vendor.js"></script>
+<script type="text/javascript" src="public/index.js"></script>
 </html>
