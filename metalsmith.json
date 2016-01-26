@@ -33,6 +33,7 @@
     },
     "metalsmith-sass": {
       "outputStyle": "expanded"
-    }
+    },
+    "metalsmith-express": {}
   }
 }
