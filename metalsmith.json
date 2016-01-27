@@ -4,6 +4,13 @@
     "description": "My second, super-cool blog."
   },
   "plugins": {
+    "metalsmith-collections":{
+      "blogposts": {
+        "pattern": "*.md",
+        "sortBy": "date",
+        "reverse": true
+      }
+    },
     "metalsmith-markdown": {},
     "metalsmith-permalinks": {
       "pattern": ":title"
