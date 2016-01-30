@@ -45,11 +45,11 @@ layout: index.html.swig
 		<div class="columns">
 			<h4>Computing</h4>
 			<ul>
-				<li><span style="color: red">&hearts;</span> Javascript, PHP, HTML5, CSS3, D, C++14, Bash</li>
+				<li><span style="color: red">&hearts;</span> Javascript, PHP, HTML5, CSS3, D, Bash</li>
 				<li>Full Stack from OS to UI</li>
 				<li>Awesome Linux Sysadmin Skills</li>
 				<li>FreeBSD Stuff</li>
-				<li>Beard</li>
+				<li>Hackathons</li>
 			</ul>
 
 			<h4>Interests</h4>
