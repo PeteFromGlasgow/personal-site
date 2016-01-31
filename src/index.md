@@ -27,39 +27,15 @@ layout: index.html.swig
 </div>
 
 
-<div id='about' class='section zen-white-background'>
+<div id='about' class='section zen-white-background text-centered'>
 	<div class='row'>
 		<div class="columns small-12">
 			<h1 class='section-header-title'>About</h1>
 		</div>
 	</div>
-	<div class='row'>
-		<div class="columns small-12 medium-8">
-			<p>Peter was born in Glasgow on 19th of June 1990. In 2008 he attended Computer Science at the University of Strathclyde in Glasgow and left with an Honours degree.</p>
-			<p>Peter is currently a Senior Software Architect currently working for Stream Technologies in Scotland. Peter has several years experience in a large number of different languages, web frameworks and environments. He currently spends most of his time experimenting with new ways to manipulate data in the Internet of Things.</p>
-
-			<p>As far is professional interests go Peter is a fairly normal programmer and enjoys solving interesting problems.</p>
-
-			<p>He is known to partake in a few drinks, sometimes even brewing his own beer.</p>
-		</div>
-		<div class="columns">
-			<h4>Computing</h4>
-			<ul>
-				<li><span style="color: red">&hearts;</span> Javascript, PHP, HTML5, CSS3, D, Bash</li>
-				<li>Full Stack from OS to UI</li>
-				<li>Awesome Linux Sysadmin Skills</li>
-				<li>FreeBSD Stuff</li>
-				<li>Hackathons</li>
-			</ul>
-
-			<h4>Interests</h4>
-			<ul>
-				<li>Japanese (日本語)</li>
-				<li>Brewing</li>
-				<li>Video Games</li>
-				<li>DIY</li>
-			</ul>
-			<p></p>
+	<div class='row align-center'>
+		<div class="columns small-6">
+			Hey, I'm Peter. I am a Senior Software Architect and general programming jack of all trades based in Glasgow. I currently work at <a href="http://www.stream-technologied.com">Stream Technologies</a> making the internet of things awesome. In my free time I like doing new things (I'm currently learning woodworking), running a Japanese group in Glasgow or working on tools.
 		</div>
 	</div>
 </div>
