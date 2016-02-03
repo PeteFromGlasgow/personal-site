@@ -35,13 +35,19 @@ layout: index.html.swig
 	</div>
 	<div class='row'>
 		<div class="columns small-12 medium-8">
-			<p>Peter was born in Glasgow on 19th of June 1990. In 2008 he attended Computer Science at the University of Strathclyde in Glasgow and left with an Honours degree.</p>
+			<p>Hey, I'm Peter. I'm a Senior Software Architect from Glasgow who currently works for Stream Technologies making the Internet of Things Awesome by connecting together all sorts of things and stuff. In my free time I speak Japanese, brew my own beer, currently do some woodworking and drawing and spend the little time I have left working on personal projects.</p>
+
+			<p>I work a lot with Node.js, PHP, HTML5, SASS and *NIX.</p>
+
+			<!--<p>Peter was born in Glasgow on 19th of June 1990. In 2008 he attended Computer Science at the University of Strathclyde in Glasgow and left with an Honours degree.</p>
 			<p>Peter is currently a Senior Software Architect currently working for Stream Technologies in Scotland. Peter has several years experience in a large number of different languages, web frameworks and environments. He currently spends most of his time experimenting with new ways to manipulate data in the Internet of Things.</p>
 
 			<p>As far is professional interests go Peter is a fairly normal programmer and enjoys solving interesting problems.</p>
 
 			<p>He is known to partake in a few drinks, sometimes even brewing his own beer.</p>
+			-->
 		</div>
+		<!--
 		<div class="columns">
 			<h4>Computing</h4>
 			<ul>
@@ -61,6 +67,7 @@ layout: index.html.swig
 			</ul>
 			<p></p>
 		</div>
+		-->
 	</div>
 </div>
 
