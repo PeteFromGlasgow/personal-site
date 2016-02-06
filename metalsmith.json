@@ -41,6 +41,12 @@
     "metalsmith-sass": {
       "outputStyle": "expanded"
     },
+    "metalsmith-watch": {
+      "paths": {
+        "${source}/**/*": true
+      },
+      "livereload": true
+    },
     "metalsmith-express": {}
   }
 }
