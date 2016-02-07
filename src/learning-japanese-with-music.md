@@ -16,4 +16,16 @@ So I've been trying to think up good ways of combatting my boredom with learning
 Anki Setup
 ==========
 
-The standard Anki setup can be quite tedious requiring several data inputs for one card, luckily there are some pretty cool plugins out there which make it much easier to create new 日本語 cards. The one I'm going to use for this guide is called (Yomichan)[https://foosoft.net/projects/yomichan/]
+The standard Anki setup can be quite tedious requiring several data inputs for one card, luckily there are some pretty cool plugins out there which make it much easier to create new 日本語 cards. The one I'm going to use for this guide is called (Yomichan)[https://foosoft.net/projects/yomichan/].
+
+I already have Anki installed and an AnkiWeb account set up so that I can sync between my laptop, PC and phone. So installing turned out to be pretty easy by adding the addon listed at the (AnkiWeb Site)[https://ankiweb.net/shared/info/934748696].
+
+Adding the Template
+===================
+
+Unfortunately it's not just as simple as adding the addon to Anki, even though the addon is easily available from the tools menu we need to add it's template decks
+
+Getting Song Lyrics
+===================
+
+Getting Japanese song lyrics is pretty easy once you know how. You simply search for the song you want with the Japanese word 歌詞(かし) which means lyrics after it, if you want to be super grammatically correct you can search for <SONG NAME>の歌詞 instead but in my experience it didn't make much difference in results. After you've found a lyric listing you like you just copy and paste it into yomichan.
