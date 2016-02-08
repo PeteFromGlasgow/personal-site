@@ -28,4 +28,4 @@ Unfortunately it's not just as simple as adding the addon to Anki, even though t
 Getting Song Lyrics
 ===================
 
-Getting Japanese song lyrics is pretty easy once you know how. You simply search for the song you want with the Japanese word 歌詞(かし) which means lyrics after it, if you want to be super grammatically correct you can search for <SONG NAME>の歌詞 instead but in my experience it didn't make much difference in results. After you've found a lyric listing you like you just copy and paste it into yomichan.
+Getting Japanese song lyrics is pretty easy once you know how. You simply search for the song you want with the Japanese word 歌詞(かし) which means lyrics after it, if you want to be super grammatically correct you can search for <SONG NAME>の歌詞 instead but in my experience it didn't make much difference in results. After you've found a lyric listing you like you just copy and paste it into yomichan. You can then hover over the lyrics while holding the corresponding keys and it will give you a dictionary definition of the word. It will always give you the plain, unconjugated form in the case of adjectives and verbs.
