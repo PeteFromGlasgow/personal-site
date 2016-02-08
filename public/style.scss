@@ -1,4 +1,6 @@
 @import "./bower_components/foundation-sites/scss/foundation";
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic);
+
 
 $zen-white: #ECF0F1;
 //$zen-green: #5C832F;
@@ -21,6 +23,20 @@ $zen-red: #E74C3C;
 	padding-bottom: 2em;
 }
 
+.blog-header {
+	width:100%;
+	//background: $zen-blue;
+	//color: $zen-white;
+}
+
+#blog-header-text {
+	font-family: 'Lora', serif;
+	padding-top: 0.5rem
+}
+
+.blog-body, .blog-body > * {
+	font-family: 'Lora', serif !important;
+}
 
 $topbar-background: $zen-blue-dark;
 $topbar-link-color: $zen-white;

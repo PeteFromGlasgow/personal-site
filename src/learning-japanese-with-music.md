@@ -16,9 +16,9 @@ So I've been trying to think up good ways of combatting my boredom with learning
 Anki Setup
 ==========
 
-The standard Anki setup can be quite tedious requiring several data inputs for one card, luckily there are some pretty cool plugins out there which make it much easier to create new 日本語 cards. The one I'm going to use for this guide is called (Yomichan)[https://foosoft.net/projects/yomichan/].
+The standard Anki setup can be quite tedious requiring several data inputs for one card, luckily there are some pretty cool plugins out there which make it much easier to create new 日本語 cards. The one I'm going to use for this guide is called [Yomichan](https://foosoft.net/projects/yomichan/).
 
-I already have Anki installed and an AnkiWeb account set up so that I can sync between my laptop, PC and phone. So installing turned out to be pretty easy by adding the addon listed at the (AnkiWeb Site)[https://ankiweb.net/shared/info/934748696].
+I already have Anki installed and an AnkiWeb account set up so that I can sync between my laptop, PC and phone. So installing turned out to be pretty easy by adding the addon listed at the [AnkiWeb Site](https://ankiweb.net/shared/info/934748696).
 
 Adding the Template
 ===================
