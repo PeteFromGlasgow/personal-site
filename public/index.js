@@ -22,8 +22,9 @@ var madlibs = {
 }
 
 
-
 $(document).ready(function(){
+	$(document).foundation();
+
 	/**
 	 * Generates a subtitle for the page
 	 * @return {String} Words randomly stuck together

@@ -30,13 +30,12 @@
       "files": [
         "public/jquery.js",
         "public/foundation.js",
-        "public/lodash.js",
-        "public/what-input.js"
+        "public/lodash.js"
       ],
       "output": "public/vendor.js"
     },
     "metalsmith-uglify":{
-      "removeOriginal": true
+      "removeOriginal": false
     },
     "metalsmith-sass": {
       "outputStyle": "expanded"
