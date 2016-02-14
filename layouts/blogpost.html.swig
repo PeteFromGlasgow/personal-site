@@ -8,12 +8,15 @@
 <div class="off-canvas-wrapper">
   <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
     <div class="off-canvas position-left" id="blog-off-canvas" data-off-canvas>
+
     	<ul class="menu vertical">
-        <li><a href="#">One</a></li>
+        <li class='menu-text'><img src="/public/images/peter_drawing_no_back.png" class='face-bordered face-bordered-small'></img>
+PeterKinnaird.eu</li>
         <li><a href="#">Two</a></li>
         <li><a href="#">Three</a></li>
         <li><a href="#">Four</a></li>
       </ul>
+      <hr>
     </div>
     <div class="off-canvas-content" data-off-canvas-content>
     	<a data-toggle="blog-off-canvas"> &lt; Open Menu</a>

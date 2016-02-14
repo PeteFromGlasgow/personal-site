@@ -42,7 +42,9 @@
     },
     "metalsmith-watch": {
       "paths": {
-        "${source}/**/*": true
+        "${source}/**/*": true,
+        "public/**/*.scss": true,
+        "layouts/**/*": true
       },
       "livereload": true
     },

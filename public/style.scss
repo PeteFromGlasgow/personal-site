@@ -46,11 +46,18 @@ $topbar-link-color: $zen-white;
     background: white;
     border-radius: 64px;
     margin-top:1em;
+
 }
 
 .face-bordered-large {
     width: 192px;
     border-radius: 96px;
+}
+
+.face-bordered-small {
+    width: 32px;
+    border-radius: 16px;
+    margin-top: 0;
 }
 
 .zen-white {
@@ -108,6 +115,20 @@ h1.section-header-title {
 	width: 400px;
 	height: 350px;
 	text-align: center;
+}
+
+#blog-off-canvas {
+	height:100vw;
+	background: $zen-blue-dark;
+	color: $zen-white;
+}
+
+#blog-off-canvas > ul > li > a {	
+	color: $zen-white;
+}
+
+#blog-off-canvas > ul > li > a:hover {	
+	color: darken($zen-white, 14%);
 }
 
 
