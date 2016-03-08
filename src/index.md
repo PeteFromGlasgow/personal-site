@@ -48,8 +48,42 @@ layout: index.html.swig
 	</div>
 </div>
 
-
 <div id='contact' class='section'>
+	<div class='row'>
+		<div class="columns small-12">
+			<h1 class='section-header-title'>Projects and Portfolio</h1>
+		</div>
+	</div>
+	<div class='row'>
+		<div class="columns small-12 medium-8">
+			I work on small projects all the time, some of which are programming related and some of which aren't. The table at the right shows my recent projects and their current progress.
+		</div>
+		<div class="columns small-12 medium-4">
+		<table>
+			<thead>
+				<th>Project Name</th>
+				<th>Status</th>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Pakoroids</td>
+					<td><span class="warning label">In Progress</span></td>
+				</tr>
+				<tr>
+					<td>Metalsmith Blog</td>
+					<td><span class="warning label">In Progress</span></td>
+				</tr>
+				<tr>
+					<td>DIY Table</td>
+					<td><span class="warning label">In Progress</span></td>
+				</tr>
+			</tbody>
+		</table>
+		</div>
+	</div>
+</div>
+
+<div id='contact' class='section zen-white-background'>
 	<div class='row'>
 		<div class="columns small-12">
 			<h1 class='section-header-title'>Contact</h1>
