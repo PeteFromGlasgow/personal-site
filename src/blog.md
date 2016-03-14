@@ -1,0 +1,3 @@
+---
+layout: bloglist.html.swig
+---

@@ -23,7 +23,7 @@ layout: index.html.swig
         <h1>Peter Kinnaird</h1>
         <p id='main-subtitle'>Bearded Code Artisan</p>
         <a href="public/cv_peter_kinnaird.pdf" class="button button-bordered">Download CV</a>
-        <a href="public/cv_peter_kinnaird.pdf" class="button button-bordered">Blog</a>
+        <a href="blog" class="button button-bordered">Blog</a>
     </div>
 </div>
 
@@ -56,7 +56,10 @@ layout: index.html.swig
 	</div>
 	<div class='row'>
 		<div class="columns small-12 medium-8">
-			I work on small projects all the time, some of which are programming related and some of which aren't. The table at the right shows my recent projects and their current progress.
+			<p>I work on small projects all the time, some of which are programming related and some of which aren't. The table at the right shows my recent projects and their current progress.</p>
+
+			<p>There's also tonnes of projects that I've never finished, but I'm not going to bore you with half finished projects.</p>
+
 		</div>
 		<div class="columns small-12 medium-4">
 		<table>
