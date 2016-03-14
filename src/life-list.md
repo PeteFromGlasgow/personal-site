@@ -141,5 +141,17 @@ This is a life list which is inspired in part by the life list over at [Choosing
 			<td>7th March 2016</td>
 			<td></td>
 		</tr>
+		<tr>
+			<td>22</td>
+			<td>Go Kite Buggying</td>
+			<td>14th March 2016</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>Have a barbecue at lunch in a park</td>
+			<td>14th March 2016</td>
+			<td></td>
+		</tr>
 	</tbody>
 </table>
