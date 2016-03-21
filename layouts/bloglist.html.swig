@@ -19,7 +19,7 @@ PeterKinnaird.eu</li>
       <hr>
     </div>
     <div class="off-canvas-content" data-off-canvas-content>
-    	<a data-toggle="blog-off-canvas"> &lt; Open Menu</a>
+    	<a id="menu-burger" data-toggle="blog-off-canvas"> &#9776;</a>
 		<div class="row">
 			<div class="medium-2">
 			</div>
@@ -47,4 +47,5 @@ PeterKinnaird.eu</li>
 
 
 </div>
+
 {% endblock content %}

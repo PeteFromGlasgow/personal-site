@@ -131,5 +131,10 @@ h1.section-header-title {
 	color: darken($zen-white, 14%);
 }
 
+#menu-burger {
+	color: $zen-red;
+	padding: 0.6rem;
+	font-size: 22px;
+}
 
 @include foundation-everything($flex: true)

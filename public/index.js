@@ -34,4 +34,13 @@ $(document).ready(function(){
 	}
 
 	$("#main-subtitle").html(madLib());
+
+	var offcanvas = $(document)
+	offcanvas.on("opened.zf.offcanvas", function(){
+		$("#menu-burger").html("&#10539;")
+	})
+
+	offcanvas.on("closed.zf.offcanvas", function(){
+		$("#menu-burger").html("&#9776;")
+	})
 })
