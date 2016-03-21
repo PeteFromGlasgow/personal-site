@@ -12,9 +12,11 @@
     	<ul class="menu vertical">
         <li class='menu-text'><img src="/public/images/peter_drawing_no_back.png" class='face-bordered face-bordered-small'></img>
 PeterKinnaird.eu</li>
-        <li><a href="#">Two</a></li>
-        <li><a href="#">Three</a></li>
-        <li><a href="#">Four</a></li>
+        {% for name, collection in tagList %}
+					<ul>
+						<li>{{tags}}</li>
+					</ul>
+		{% endfor %}
       </ul>
       <hr>
     </div>
