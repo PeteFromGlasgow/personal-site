@@ -6,7 +6,6 @@
   "plugins": {
     "metalsmith-collections":{
       "blogposts": {
-        "pattern": "*.md",
         "sortBy": "date",
         "reverse": true
       }
