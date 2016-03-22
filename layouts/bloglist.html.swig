@@ -37,7 +37,7 @@ PeterKinnaird.eu</li>
 			<div class="medium-8 blog-body column align-center">
 				
 				{% for post in blogposts %}
-					<a href="{{post.url}}"><h5>{{post.title}}</h5></a>
+					<a href="/{{post.path}}"><h5>{{post.title}}</h5></a>
 					<p>{{ post.excerpt | raw }}</p>
 				{% endfor %}
 			</div>

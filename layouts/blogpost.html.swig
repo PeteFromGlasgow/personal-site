@@ -35,7 +35,24 @@ PeterKinnaird.eu</li>
 			<div class="medium-8 blog-body column align-center">
 				
 				{{ contents | raw }}
+				
+				
 			</div>
+		</div>
+		<div class="row">
+			<div class="medium-2">
+			</div>
+			<div class="medium-4 blog-body column align-center">
+				{% if previous %}
+				<a href="/{{previous.path}}"> &lt; {{previous.title}}</a>
+				{% endif %}
+			</div>
+			<div id="previous-post" class="medium-4 blog-body column align-center">
+				{% if next %}
+				<a href="/{{next.path}}">  {{next.title}} &gt;</a>
+				{% endif %}
+			</div>
+
 		</div>	
     </div>
     

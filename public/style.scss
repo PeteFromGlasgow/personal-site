@@ -137,4 +137,8 @@ h1.section-header-title {
 	font-size: 22px;
 }
 
+#previous-post {
+	text-align:right;
+}
+
 @include foundation-everything($flex: true)
