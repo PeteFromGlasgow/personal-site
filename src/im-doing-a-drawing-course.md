@@ -6,3 +6,4 @@ tags: learning, art, drawing
 layout: blogpost.html.swig
 ---
 
+Drawing course!

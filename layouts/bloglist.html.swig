@@ -12,14 +12,14 @@
     	<ul class="menu vertical">
         <li class='menu-text'><img src="/public/images/peter_drawing_no_back.png" class='face-bordered face-bordered-small'></img>
 PeterKinnaird.eu</li>
-        {% for name, collection in tagList %}
-					<ul>
-						<li>{{tags}}</li>
-					</ul>
+        
+		<li><a href="/blog">Home</a>
+		{% for name, collection in tagList %}
+			<li>{{tags}}</li>
 		{% endfor %}
+		
       </ul>
-      <hr>
-    </div>
+     </div>
     <div class="off-canvas-content" data-off-canvas-content>
     	<a id="menu-burger" data-toggle="blog-off-canvas"> &#9776;</a>
 		<div class="row">
@@ -27,7 +27,7 @@ PeterKinnaird.eu</li>
 			</div>
 			<div class="medium-8 column align-center">
 				<div class='blog-header'>
-					<h1 id='blog-header-text'>Blog List - {{category}}</h1>
+					<h1 id='blog-header-text'>Blog</h1>
 				</div>
 			</div>
 		</div>
@@ -37,9 +37,8 @@ PeterKinnaird.eu</li>
 			<div class="medium-8 blog-body column align-center">
 				
 				{% for post in blogposts %}
-					<ul>
-						<li>{{post.title}} - {{post.contents | raw}}</li>
-					</ul>
+					<a href="{{post.url}}"><h5>{{post.title}}</h5></a>
+					<p>{{ post.excerpt | raw }}</p>
 				{% endfor %}
 			</div>
 		</div>	

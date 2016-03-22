@@ -14,6 +14,7 @@
     "metalsmith-permalinks": {
       "pattern": ":title"
     },
+    "metalsmith-excerpts": true,
     "metalsmith-layouts": {
       "engine": "swig"
     },
