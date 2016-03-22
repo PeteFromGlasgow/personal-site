@@ -4,6 +4,7 @@ date: 2016-02-06
 collection: blogposts
 tags: japanese, learning, anki, jlpt
 layout: blogpost.html.swig
+draft: true
 ---
 
 
