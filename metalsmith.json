@@ -4,6 +4,7 @@
     "description": "My second, super-cool blog."
   },
   "plugins": {
+    "metalsmith-drafts": true,
     "metalsmith-collections":{
       "blogposts": {
         "sortBy": "date",
@@ -42,7 +43,7 @@
     },
     "metalsmith-watch": {
       "paths": {
-        "${source}/**/*": true,
+        "${source}/**/*.md": true,
         "public/**/*.scss": true,
         "layouts/**/*": true
       },
