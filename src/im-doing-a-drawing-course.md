@@ -16,4 +16,9 @@ Now drawing is something that I've really been wanting to get better at for a wh
 
 So I went bought a bunch of pencils and got to it!
 
-At first I was really terrible, in my first couple of weeks of pictures I drew it was noticable that I didn't have much skill in drawing; we even done a bit of speed drawing which I just so happened to pick a difficult object to draw for (it was a toy truck, with lots of little bits for the horns and other stuff). As time went on however, I even manage to surprise myself with how far my drawings came along.
+At first I was really terrible, in my first couple of weeks of pictures I drew it was noticable that I didn't have much skill in drawing; we even done a bit of speed drawing (I had to draw it in a few minutes) which I just so happened to pick a difficult object to draw for (it was a toy truck, with lots of little bits for the horns and other stuff), Which in the end didn't look much like the original source at all. As time went on however, I even manage to surprise myself with how far my drawings came along by managing to draw a nice portrait of someones face, an accurate tree using ink, a nice drawing of a temple in Kyoto and some other things.
+
+I have uploaded some of these pictures on this page to highlight the difference in skill from start to end.
+
+The experience was great so I'm definitely going to do another evening or weekend class again, it might not be drawing, maybe I'll do another language or something.
+
