@@ -16,7 +16,6 @@ var madlibs = {
 	"job": [
 		"Architect",
 		"Creator",
-		"Savent",
 		"Consumer"
 	]
 }

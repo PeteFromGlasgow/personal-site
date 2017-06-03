@@ -3,6 +3,7 @@ title: Life List
 date: 2016-03-07
 collection: blogposts
 layout: blogpost.html.swig
+draft: true
 ---
 
 This is a life list which is inspired in part by the life list over at [Choosing Figs](http://choosingfigs.com/life-list/) written by Val Bromann. The idea is that I list down things that I would really like to do (and I have ideas for stuff I would like to do all the time) then tick them off and write a blog post for each one I complete.

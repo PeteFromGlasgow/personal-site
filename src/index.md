@@ -23,7 +23,6 @@ layout: index.html.swig
         <h1>Peter Kinnaird</h1>
         <p id='main-subtitle'>Bearded Code Artisan</p>
         <a href="public/cv_peter_kinnaird.pdf" class="button button-bordered">Download CV</a>
-        <a href="blog" class="button button-bordered">Blog</a>
     </div>
 </div>
 
@@ -39,11 +38,11 @@ layout: index.html.swig
 			<img src="public/images/peter_tux.jpg" class='face-bordered-large'></img>
 		</div>
 		<div class="columns small-12 medium-9">
-			<p>Hey, I'm Peter. I'm a Senior Software Architect from Glasgow who currently works for Stream Technologies making the Internet of Things Awesome by connecting together all sorts of things and stuff. In my free time I speak Japanese and organize <a href="http://www.meetup.com/Japanese-language-and-culture-in-Glasgow/">a Japanese Language and culture group</a>, brew my own beer, currently do some woodworking and drawing and spend the little time I have left working on personal projects.</p>
-			
-			<p>As a programmer I am a huge *NIX fan work and work daily using both Linux and FreeBSD. The languages I use the most are PHP and Javascript (along with Node.JS). Other languages I'm use sometimes and fairly confident in are Dlang, C, C++ and shell scripting in bash.</p>
+			<p>Hey, I'm Peter. I'm a Senior Software Architect from Glasgow who currently works for Stream Technologies making the Internet of Things Awesome by connecting together all sorts of things and stuff. In my free time I speak Japanese and organize <a href="http://www.meetup.com/Japanese-language-and-culture-in-Glasgow/">a Japanese Language and culture group</a>, play the piano and spend the little time I have left working on personal projects.</p>
 
-			<p>If you're ever in Glasgow and feel like grabbing a beer (or going on the somewhat averagely famous Glasgow Clockwork Orange Pub Crawl) give me a shout.</p>
+			<p>As a programmer I am a huge *NIX fan and work daily using both Linux and FreeBSD. The languages I use the most are Javascript (along with Node.JS) and PHP. Other languages I'm use sometimes and fairly confident in are C, Java and Go and shell scripting (even using classic shells).</p>
+
+			<p>If you're ever in Glasgow and feel like grabbing a beer or feel like chattings give me a shout.</p>
 		</div>
 	</div>
 </div>
@@ -69,16 +68,8 @@ layout: index.html.swig
 			</thead>
 			<tbody>
 				<tr>
-					<td>Pakoroids</td>
-					<td><span class="warning label">In Progress</span></td>
-				</tr>
-				<tr>
-					<td>Metalsmith Blog</td>
-					<td><span class="warning label">In Progress</span></td>
-				</tr>
-				<tr>
-					<td>DIY Table</td>
-					<td><span class="warning label">In Progress</span></td>
+					<td><a href="http://pakoroids.nihon.io">Pakoroids</a></td>
+					<td><span class="success label">Released</span></td>
 				</tr>
 			</tbody>
 		</table>
@@ -94,19 +85,7 @@ layout: index.html.swig
 	</div>
 	<div class='row'>
 		<div class="columns small-12 medium-6">
-			<label>
-				Your Email
-				<input type="email" placeholder="jimmy@example.com"></input>
-			</label>
-			<label>
-				Subject
-				<input type="text" placeholder="Lets work together!"></input>
-			</label>
-			<label>
-				Message
-				<textarea id='email-message'></textarea>
-			</label>
-			<button type='submit' class='button'>Send</button>
+			<a href="https://www.linkedin.com/in/peterkinnaird/">LinkedIn</a>
 		</div>
 		<div class="columns small-12 medium-6">
 		</div>
@@ -116,9 +95,7 @@ layout: index.html.swig
 &nbsp;
 <div class='row'>
 	<div class="columns small-12">
-		<p>Website &copy; 2016 Peter Kinnaird.</p>
+		<!-- <p>Website &copy; 2017 Peter Kinnaird.</p> -->
 	</div>
 </div>
 </div>
-
-
